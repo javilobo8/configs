@@ -1,5 +1,60 @@
-// Place your settings in this file to overwrite the default settings
 {
+  "workbench.iconTheme": "vscode-icons",
   "editor.renderWhitespace": "all",
-  "editor.tabSize": 4
+  "editor.tabSize": 2,
+  "window.nativeTabs": false,
+  "editor.lineHeight": 16,
+  "editor.fontSize": 12,
+  "editor.fontFamily": "'SF Mono'",
+  "editor.fontWeight": "100",
+  "workbench.colorCustomizations": {
+    "[Monokai]": {
+      "statusBar.background": "#2e3136",
+      "panel.background": "#2e3136",
+      "editor.background": "#2e3136",
+      "tab.activeBackground": "#2e3136",
+      "titleBar.activeBackground": "#2e3136",
+      "sideBar.background": "#27292e",
+      "activityBar.background": "#27292e",
+      "tab.inactiveBackground": "#27292e",
+      "input.background": "#27292e",
+      "sideBarSectionHeader.background": "#2e3136",
+      "editor.lineHighlightBackground": "#27292e",
+      "list.hoverBackground": "#2e3136",
+      "gitDecoration.modifiedResourceForeground": "#ffeb3b",
+      "gitDecoration.untrackedResourceForeground": "#8bc34a"
+    }
+  },
+  "workbench.startupEditor": "none",
+  "window.zoomLevel": 0,
+  "extensions.ignoreRecommendations": true,
+  "editor.smoothScrolling": false,
+  "editor.minimap.showSlider": "always",
+  "editor.minimap.renderCharacters": false,
+  "editor.formatOnType": false,
+  "editor.cursorBlinking": "expand",
+  "editor.renderLineHighlight": "all",
+  "workbench.editor.swipeToNavigate": true,
+  "window.restoreFullscreen": true,
+  "window.title": "${rootName}",
+  "window.titleBarStyle": "native",
+  "files.defaultLanguage": "javascript",
+  "explorer.openEditors.visible": 0,
+  "editor.rulers": [
+    100
+  ],
+  "workbench.fontAliasing": "default",
+  "terminal.integrated.fontFamily": "'SF Mono', monospace",
+  "terminal.integrated.fontWeight": "100",
+  // "workbench.statusBar.visible": true,
+  "editor.minimap.enabled": false,
+  "editor.renderControlCharacters": true,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "html.format.wrapLineLength": 0,
+  "workbench.colorTheme": "Monokai",
+  "gitlens.advanced.messages": {
+    "suppressShowKeyBindingsNotice": true
+  },
+  "debug.enableAllHovers": true
 }
