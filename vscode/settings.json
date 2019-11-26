@@ -67,9 +67,6 @@
     "typescript.updateImportsOnFileMove.enabled": "always",
     "workbench.iconTheme": "vscode-icons",
     "javascript.implicitProjectConfig.checkJs": true,
-    "gitlab.instanceUrl": "https://gitlab.fintonic.com",
-    "gitlab.showPipelineUpdateNotifications": true,
-    "gitlab.enableExperimentalFeatures": true,
     "terminal.integrated.fontSize": 11,
     "terminal.integrated.fontWeightBold": "600",
   }
